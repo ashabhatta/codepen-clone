@@ -1,6 +1,6 @@
 # codepen-clone
 
-## installitation
+## installation
 * clone or download the repo
 * npm i
 * npm start
